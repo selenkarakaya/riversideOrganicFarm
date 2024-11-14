@@ -3,8 +3,8 @@
    🌾 Riverside Farm
 </h1>
 <p align="center">
-<a href="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml" target="_blank">
-    <img src="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml/badge.svg" alt="Test">
+<a href="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/main.yml" target="_blank">
+    <img src="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/main.yml/badge.svg" alt="Test">
 </a>
 </p>
 
