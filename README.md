@@ -1,5 +1,11 @@
 # 🌾 Riverside Farm
 
+<p align="center">
+<a href="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml" target="_blank">
+    <img src="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml/badge.svg" alt="Test">
+</a>
+</p>
+
 ## 📜 Description
 The **Riverside Farm** project introduces a unique concept in meal kit services, offering an affordable option that prioritizes fresh ingredients, straightforward cooking techniques, and robust flavors, catering to individuals who enjoy cooking while appreciating the convenience of meal kit delivery.
 
