@@ -90,7 +90,7 @@ function CreateOwnRecipe() {
               className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
               htmlFor="recipeName"
             >
-              Repice Name
+              Recipe Name
             </label>
             <input
               className=" block w-full bg-indigo-100 text-indigo-600 border border-indigo-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
