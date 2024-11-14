@@ -1,5 +1,7 @@
-# 🌾 Riverside Farm
 
+<h1 align="center">
+   🌾 Riverside Farm
+</h1>
 <p align="center">
 <a href="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml" target="_blank">
     <img src="https://github.com/selenkarakaya/riversideOrganicFarm/actions/workflows/test.yml/badge.svg" alt="Test">
