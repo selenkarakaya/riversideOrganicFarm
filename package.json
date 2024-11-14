@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "jest": {
-    "testEnvironment": "jsdom",
-    "setupFilesAfterEnv": [
-      "<rootDir>/jest.setup.js"
-    ]
+    
   },
   "dependencies": {
     "@headlessui/react": "^1.7.19",
