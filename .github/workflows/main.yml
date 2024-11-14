@@ -1,0 +1,41 @@
+name: Run Tests
+
+# Trigger on push and pull request events to the main branch
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+    
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+        
+      # Step 2: Set up Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # Use the version of Node.js that your app requires
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: npm install
+        
+      # Step 4: Run the tests using Jest
+      - name: Run tests
+        run: npm test -- --coverage --ci --runInBand
+
+      # Step 5: Upload coverage reports (optional)
+      - name: Upload coverage report
+        if: success()
+        uses: actions/upload-artifact@v3
+        with:
+          name: coverage-report
+          path: coverage
