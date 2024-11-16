@@ -8,6 +8,8 @@
 </a>
 </p>
 
+👉 [**Visit Riverside Farm!**](https://riversideorganicfarm.netlify.app/) 👈
+
 ## 📜 Description
 The **Riverside Farm** project introduces a unique concept in meal kit services, offering an affordable option that prioritizes fresh ingredients, straightforward cooking techniques, and robust flavors, catering to individuals who enjoy cooking while appreciating the convenience of meal kit delivery.
 
@@ -45,7 +47,8 @@ Through the **Riverside Farm** project, I gained valuable insights and skills, i
 This project solidified my understanding of full-stack development and deepened my passion for creating applications that promote healthy living and cooking convenience.
 
 ## Demo 🔗
-🌟 Visit Riverside Farm([https://riversideorganicfarm.netlify.app/]).
+
+🌟 [**Visit Riverside Farm!**](https://riversideorganicfarm.netlify.app/)
 
 ## 🚀 Installation
 To set up the Monthly Planner on your local machine:
